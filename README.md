@@ -1,2 +1,2 @@
 # i3-different-kblayouts
-i3wm python scripts for different keyboard layouts for each window
+i3wm python script for different keyboard layouts for each window
