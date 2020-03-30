@@ -8,6 +8,7 @@ exec --no-startup-id "python ~/.i3/different_keyboard_layout_i3_windows.py"
 
 ## Require
 xkb-switch
+i3ipc
 
 ## Some
 I'm new in python and start learn it with start of create this script. All comments are welcome.
