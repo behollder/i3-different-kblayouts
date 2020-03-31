@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import i3ipc
 from subprocess import call
 import subprocess
